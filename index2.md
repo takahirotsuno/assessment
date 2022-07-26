@@ -5,4 +5,4 @@
 - 3
 
 # リンク
-- [N予備校](https://www.nnn.ed.nico/)
+- [N予備校](https://www.nnn.ed.nico/){:target="_blank"}
