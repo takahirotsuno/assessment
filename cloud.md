@@ -25,3 +25,4 @@
 - [Amazon Web Service](https://aws.amazon.com/jp/){:target="_blank"}
 - [Google Cloud Platform](https://console.cloud.google.com/welcome?project=vast-maxim-350806&hl=ja){:target="_blank"}
 - [Microsoft Azure](https://azure.microsoft.com/ja-jp/){:target="_blank"}
+
